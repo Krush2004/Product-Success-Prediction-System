@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+torch
+torchvision
+Python 3.13.1 (Using Current Python Version)
